@@ -1,6 +1,7 @@
 # Gedis - a Redis clone
 This project is done within a hour just to practice Go.
 
+
 # Building
 First, clone the repo
 ```bash
@@ -10,6 +11,7 @@ Build with make
 ```
 make build
 ```
+> Make sure that GoLang enviroment is set up (you have `go` executable on your PC)
 
 # Running
 `cd` into `build/` dir.
