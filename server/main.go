@@ -46,7 +46,6 @@ func handleAccept(ln *net.Listener) {
 
 			switch commandString[0] {
 			case "get":
-				fmt.Println(len(args))
 				if len(args) <= 1 {
 					fmt.Fprintln(conn, "Get syntax: get <key>")
 					continue
