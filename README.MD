@@ -1,5 +1,5 @@
 # Gedis - a Redis clone
-This project is done within a hour just to practice Go.
+This project is done within a hour just to practice Go, then I understood that I won't code in this lang.
 
 
 # Building
